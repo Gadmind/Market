@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="fastjson-1.2.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/fastjson-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/c3p0-oracle-thin-extras-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mchange-commons-java-0.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

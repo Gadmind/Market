@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/classes/artifacts/Market1_war_exploded/WEB-INF/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="commons-codec-1.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-codec-1.9.jar!/"/>
+	</lib>
+	<lib name="Tomcat 8.5.35" scope="PROVIDED"/>
+	<levels>
+		<level name="mysql-connector-java-5.1.46-bin" value="project"/>
+		<level name="fastjson-1.2.13" value="project"/>
+		<level name="Tomcat 8.5.35" value="application_server_libraries"/>
+		<level name="apache-tomcat-8.5" value="project"/>
+		<level name="lib" value="project"/>
+	</levels>
+</component>
